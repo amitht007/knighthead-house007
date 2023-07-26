@@ -1,1 +1,1 @@
-<h1 style=“text-align: center;”>This is a centered heading</h1>
+<h1 style=“text-align: center;”>Amit</h1>
