@@ -13,6 +13,3 @@ I'm learning J2EE right now, then i will switch to Spring Framework.
 
 [Mail Here](amitht007@gmail.com)
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=knighthead-house007&show_icons=true&theme=tokyonight" 
-/>
