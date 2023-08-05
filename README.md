@@ -11,5 +11,5 @@ I'm learning J2EE right now, then i will switch to Spring Framework.
 
 [Twitter Here](https://twitter.com/knightHeadHouse) 
 
-[Mail Here](amitht007@gmail.com)
+Mail - amitht007@gmail.com
 
